@@ -1,0 +1,47 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  margin-left: 30%;
+  width: 40%;
+}
+.starter-template h1{
+    margin-bottom: 15px;
+}
+.logoutdiv{
+    color: white;
+    text-align: right;
+    width: 100%;
+}
+
+.logoutdiv p{
+    margin: 0;
+}
+.logoutdiv a{
+    font-size: 12px;
+}
+
+.buttons{
+    margin: 1px;
+    padding: 0;
+    float: right;
+}
+
+.checkbox{
+    margin-bottom: 7px;
+}
+.checkbox label{
+    margin-right: 20px;
+}
+
+.item-list{
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.username{
+    font-weight: bold;
+    text-decoration: underline;
+}
