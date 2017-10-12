@@ -1,27 +1,27 @@
 # MY TO-DO LIST APP
  This app let's the user add to-do items, remove them, edit them and list them.
 
-##GETTING STARTED
+## GETTING STARTED
 These instructions will get you a copy of the project up and running on your local machine.
 
-##Prerequisites
+## Prerequisites
 - Apache
 - PHP 7
 - PDO Extensions
 - MySQL Extensions
 
-##Installing
+## Installing
  1. Download project from Github.
  2. Copy this folder to Apache's htdocs folder.
  3. Configure config.php.
  4. Configure .htaccess (same baseUrl that the one indicated in config.php)
  5. Exectute script.php. It will create and fill the database.
 
-##Built with
+## Built with
 - PHP 7
 - PDO
 - MySQL
 
-##Authors
+## Authors
 - Anabella Di Grazia
 
